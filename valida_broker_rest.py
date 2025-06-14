@@ -71,8 +71,8 @@ def registrar_log(conta_portas, porta_responsiva):
 def enviar_alerta(conta_portas, porta_responsiva):
     mensagem = """
     🚨*Alerta!*🚨
-    *TFBNE8 - CUJ8WY - NAPP SOLUTIONS EMPREENDIMENTOS E PARTICIPACOES LTDA ME - Produção*
-    *Topologia id:* 133061
+    *TDC83A  - CF03Y9  - OLLIE COSMETICOS LTDA*
+    *Topologia id:* 167398
     🔴*O serviço:* *BROKER WS REST* não esta va respondendo o telnet localhost para a porta *4050* internamente!
     ✔️ O serviço foi reiniciado e normalizado!
     *Quantidade de portas em uso:* {}
